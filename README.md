@@ -81,7 +81,7 @@ Mon objectif est de mettre en pratique mes compétences en analyse de données e
 ## 🌐 Contact
 
 📧 [E-mail](mailto:@hotmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/samina-v/)
 
-<a href="https://www.linkedin.com/in/samina-v/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samina-vorajee/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
+
 
