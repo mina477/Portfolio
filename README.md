@@ -10,12 +10,12 @@ Mon objectif est de mettre en pratique mes compétences en analyse de données e
 
 | **Compétences**                             | **Projets Associés**                                                |
 |---------------------------------------------|---------------------------------------------------------------------|
-| **Manipulation et nettoyage de données**    | <a href="https://">Migration des scripts vers Snowflake</a> |
-| **Analyse statistique**                     | <a href="https://">Études actuarielles chez SwissLife</a> |
-| **Visualisation de données**                | <a href="https://">Analyses intégrées dans Tableau</a>     |
+| **Manipulation et nettoyage de données**    | <a href="https://">Nettoyage de données collectées par le web scraping</a> |
+| **Analyse statistique**                     | <a href="https://">Étude sur la mobilité sociale et intergénérationnelle</a> |
+| **Visualisation de données sur Python**     | <a href="https://">Analyse et Visualisation des Ventes et Performances des Produits </a> |
+| **Visualisation de données sur Tableau** | <a href="https://">Analyse Visuelle des Ventes et du Comportement d'Achat dans le Secteur de l'Électronique</a> |
 | **Machine Learning**                        | <a href="https://">Modèles de projection de sinistralité</a> |
-| **Web Scraping**                            | <a href="https://">Gestion de données pour datamarts</a>   |
-| **Conception et gestion de datamarts**     | <a href="https://">Création de datamarts santé</a>         |
+| **Web Scraping**                            | <a href="https://">Web Scraping : Collecte de données sur le Site H&M</a>   |
 
 
 ## 🛠️ Outils et Technologies
@@ -78,10 +78,5 @@ Mon objectif est de mettre en pratique mes compétences en analyse de données e
 ---
 
 
-## 🌐 Contact
-
-📧 [E-mail](mailto:@hotmail.com)  
-
-<a href="https://www.linkedin.com/in/samina-v/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
 
 
