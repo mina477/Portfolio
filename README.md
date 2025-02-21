@@ -1,30 +1,32 @@
-# Hello, C'est Samina !
+# 👋 Hello, c'est Samina !
 
-Je suis une **data analyst indépendante** passionnée par la transformation des données en décisions stratégiques. Diplômée d'un Master en Économie Appliquée avec une spécialisation en **Data Science** de l'Université Paris-Est Créteil, je possède une solide expertise en analyse statistique, modélisation prédictive et visualisation de données.
+Je suis une **Data Scientist indépendante** passionnée par la transformation des données en décisions stratégiques. Diplômée d'un Master en Économie Appliquée avec une spécialisation en **Data Science** de l'Université Paris-Est Créteil, je possède une solide expertise en analyse statistique, modélisation prédictive et visualisation de données.
 
 Mon objectif est de mettre en pratique mes compétences en analyse de données et en machine learning pour contribuer à des projets innovants qui améliorent la prise de décision et optimisent les processus d'affaires.
 
 ---
 
-## 💼 Compétences Clés
+## 🚀 Expertise
 
-| **Compétences**                             | **Projets Associés**                                                |
-|---------------------------------------------|---------------------------------------------------------------------|
-| **Manipulation et nettoyage de données**    | <a href="https://">Nettoyage de données collectées par le web scraping</a> |
-| **Analyse statistique**                     | <a href="https://">Étude sur la mobilité sociale et intergénérationnelle</a> |
-| **Visualisation de données sur Python**     | <a href="https://">Analyse et Visualisation des Ventes et Performances des Produits </a> |
-| **Visualisation de données sur Tableau** | <a href="https://">Analyse Visuelle des Ventes et du Comportement d'Achat dans le Secteur de l'Électronique</a> |
-| **Machine Learning**                        | <a href="https://">Modèles de projection de sinistralité</a> |
-| **Web Scraping**                            | <a href="https://">Web Scraping : Collecte de données sur le Site H&M</a>   |
+- **Analyse de données** : Exploration, nettoyage et interprétation des données pour en extraire des informations exploitables.
+- **Visualisation de données** : Création de tableaux de bord et de rapports percutants avec Tableau, Python et R.
+- **Machine Learning** : Développement de modèles prédictifs pour anticiper les tendances et comportements.
+- **Web Scraping** : Collecte et structuration de données en ligne pour enrichir les analyses.
+- **Ingénierie des données** : Conception et maintenance de pipelines de données avec des outils comme Snowflake et Hadoop.
 
+---
 
 ## 🛠️ Outils et Technologies
 
-| **Catégorie**                     | **Outils**                                       |
-|-----------------------------------|--------------------------------------------------|
-| **Manipulation et Analyse de Données** | SAS, Python, SQL, Dataiku, Snowflake, R     |
-| **Visualisation de Données**      | Tableau, Python, R                               |
-| **Ingénierie des Données**        | Snowflake, Hadoop                                |
+| **Catégorie**                     | **Outils**                                      |
+|-----------------------------------|------------------------------------------------|
+| **Analyse de données**            | Python, R, SAS, SQL, Dataiku                   |
+| **Visualisation**                 | Tableau, Power BI, Python, R et RShiny         |
+| **Machine Learning**              | Scikit-learn, TensorFlow, Dataiku, PyTorch, XGBoost, LightGBM |
+| **Ingénierie des données**        | Snowflake, Spark                       |
+| **Cloud Computing**               | Microsoft Azure, AWS (en apprentissage)        |
+
+---
 
 ## 🎓 Certifications
 | **Type**                          | **Certifications**                               |
@@ -36,34 +38,29 @@ Mon objectif est de mettre en pratique mes compétences en analyse de données e
 
 ---
 
-## 📂 Projets Réalisés
+## 📂 Projets phares
 
-### Projets Réalisés
+### 1. Analyse de Données et Statistiques
+- **[La Taxe Rose](#)** : Analyse des écarts de prix selon le genre via Web Scraping sur Python et régression sur SAS.
+- **[Analyse des Ventes de Pizzas](#)** : Exploration des données de ventes avec SQL.
+- **[Réservations d'Hôtels](#)** : Analyse et régression linéaire sur les réservations sur Python.
+- **[Étude sur la mobilité sociale et intergénérationnelle](https://https://github.com/SaminaV/regression_mobilite_intergenerationelle)** : Analyse statistique des inégalités de mobilité avec des outils statistiques avancés sur SAS.
 
-#### 1. **Analyse de Données et Statistiques**
+### 2. Machine Learning et Data Science
+- **[Prédiction de la Rotation des Employés](#)** : Modélisation prédictive avec scikit-learn.
+- **[Pipeline d'Apprentissage Automatique](#)** : Construction d'un pipeline ML avec Dataiku.
+- **[Analyse de Sentiment](#)** : Analyse de sentiment avec scikit-learn.
+- **[Application Web Data Science](#)** : Développement d'une application web avec Streamlit et Python.
+- **[Modèles de projection de sinistralité](#)** : Modélisation prédictive de sinistralité avec machine learning.
 
-- **La Taxe Rose**: Analyse des écarts de prix selon le genre, utilisant le Web Scraping en Python et des méthodes de régression sur SAS.
-  
-- **La Mobilité Intergénérationnelle en France**: Étude de la transmission des avantages et inégalités selon les CSP, avec techniques de régression pour déceler tendances et facteurs d'influence sur SAS.
-  
-- **Analyse du Comportement d'Achat des Clients**: Analyse des données de ventes d'électroniques via Tableau pour identifier les tendances d'achat.
+### 3. Visualisation de Données
+- **[Analyse et Visualisation des Ventes et Performances des Produits sur Python](https://https://github.com/SaminaV/python_Visualisation)** 
+- **[Exploration des données et visualisation sur Tableau pour analyser les ventes dans le secteur électronique](https://github.com/SaminaV/Tableau_sales_analysis)**
+- **[Visualisation interactive avec RShiny](#)** : Création d'une application interactive de visualisation des données avec RShiny.
 
-- **Analyse des Ventes de Pizzas**: Réalisation d'analyses sur les ventes de pizzas en utilisant SQL.
 
-- **Analyse des Réservations d'Hôtels**: Analyse des données et régression linéaire sur les réservations d'hôtels en Python.
 
-#### 2. **Machine Learning et Data Science**
-
-- **Prédiction de la Rotation des Employés**: Utilisation de scikit-learn pour développer des modèles prédictifs.
-  
-- **Pipeline d'Apprentissage Automatique**: Construction d'un pipeline de machine learning avec Dataiku.
-
-- **Analyse de Sentiment**: Réalisation d'une analyse de sentiment sur des données en utilisant scikit-learn.
-
-- **Application Web Data Science**: Développement d'une application web pour la data science avec Streamlit et Python.
-
-#### 3. **Projets Actuariaux chez SwissLife**
-
+### 4. Projets Actuariaux chez SwissLife
 - **Études Actuarielles**: Conception et exécution d'analyses actuarielles dans Tableau, générant des rapports détaillés pour la prise de décisions stratégiques.
   
 - **Projection de Sinistralité**: Développement de modèles prédictifs pour anticiper la sinistralité en santé collective, optimisant ainsi la gestion des risques.
@@ -74,9 +71,15 @@ Mon objectif est de mettre en pratique mes compétences en analyse de données e
 
 - **Conception de Datamarts**: Création et maintenance de datamarts optimisés pour une intégration fluide et un accès à des données actualisées en temps réel.
 
-
 ---
 
+## 🌟 Pourquoi collaborer avec moi ?
+
+- **Approche personnalisée** : Chaque projet étant unique, les méthodes sont adaptées pour répondre précisément aux besoins.
+- **Résultats concrets** : Objectif d’apporter des solutions tangibles et à forte valeur ajoutée.
+- **Collaboration transparente** : Communication claire et suivi régulier pour garantir la satisfaction des parties prenantes.
+
+---
 
 
 
