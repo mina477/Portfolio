@@ -41,22 +41,22 @@ Mon objectif est de mettre en pratique mes compétences en analyse de données e
 ## 📂 Projets phares
 
 ### 1. Analyse de Données et Statistiques
-- **[La Taxe Rose]** : Analyse des écarts de prix selon le genre via Web Scraping sur Python et régression sur SAS.
+- **La Taxe Rose** : Analyse des écarts de prix selon le genre via Web Scraping sur Python et régression sur SAS.
 - **[Analyse des Ventes de Pizzas](https://github.com/SaminaV/code_sql)** : Exploration des données de ventes avec SQL (code uniquement).
-- **[Réservations d'Hôtels]** : Analyse et régression linéaire sur les réservations sur Python.
+- **Réservations d'Hôtels** : Analyse et régression linéaire sur les réservations sur Python.
 - **[Étude sur la mobilité sociale et intergénérationnelle](https://github.com/SaminaV/regression_mobilite_intergenerationelle)** : Analyse statistique des inégalités de mobilité avec des outils statistiques avancés sur SAS.
 
 ### 2. Machine Learning et Data Science
-- **[Prédiction de la Rotation des Employés]** : Modélisation prédictive avec scikit-learn.
-- **[Pipeline d'Apprentissage Automatique]** : Construction d'un pipeline ML avec Dataiku.
-- **[Analyse de Sentiment]** : Analyse de sentiment avec scikit-learn.
-- **[Application Web Data Science]** : Développement d'une application web avec Streamlit et Python.
-- **[Modèles de projection de sinistralité]** : Modélisation prédictive de sinistralité avec machine learning.
+- **Prédiction de la Rotation des Employés** : Modélisation prédictive avec scikit-learn.
+- **Pipeline d'Apprentissage Automatique** : Construction d'un pipeline ML avec Dataiku.
+- **Analyse de Sentiment** : Analyse de sentiment avec scikit-learn.
+- **Application Web Data Science** : Développement d'une application web avec Streamlit et Python.
+- **Modèles de projection de sinistralité** : Modélisation prédictive de sinistralité avec machine learning.
 
 ### 3. Visualisation de Données
 - **[Analyse et Visualisation des Ventes et Performances des Produits sur Python](https://https://github.com/SaminaV/python_Visualisation)** 
 - **[Exploration des données et visualisation sur Tableau pour analyser les ventes dans le secteur électronique](https://github.com/SaminaV/Tableau_sales_analysis)**
-- **[Visualisation interactive avec RShiny]** : Création d'une application interactive de visualisation des données avec RShiny.
+- **Visualisation interactive avec RShiny** : Création d'une application interactive de visualisation des données avec RShiny.
 
 
 
