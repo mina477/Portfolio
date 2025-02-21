@@ -44,7 +44,7 @@ Mon objectif est de mettre en pratique mes compétences en analyse de données e
 - **[La Taxe Rose]** : Analyse des écarts de prix selon le genre via Web Scraping sur Python et régression sur SAS.
 - **[Analyse des Ventes de Pizzas](https://github.com/SaminaV/code_sql)** : Exploration des données de ventes avec SQL (code uniquement).
 - **[Réservations d'Hôtels]** : Analyse et régression linéaire sur les réservations sur Python.
-- **[Étude sur la mobilité sociale et intergénérationnelle](https://https://github.com/SaminaV/regression_mobilite_intergenerationelle)** : Analyse statistique des inégalités de mobilité avec des outils statistiques avancés sur SAS.
+- **[Étude sur la mobilité sociale et intergénérationnelle](https://github.com/SaminaV/regression_mobilite_intergenerationelle)** : Analyse statistique des inégalités de mobilité avec des outils statistiques avancés sur SAS.
 
 ### 2. Machine Learning et Data Science
 - **[Prédiction de la Rotation des Employés]** : Modélisation prédictive avec scikit-learn.
