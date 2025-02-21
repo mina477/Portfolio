@@ -54,7 +54,7 @@ Mon objectif est de mettre en pratique mes compétences en analyse de données e
 - **Modèles de projection de sinistralité** : Modélisation prédictive de sinistralité avec machine learning.
 
 ### 3. Visualisation de Données
-- **[Analyse et Visualisation des Ventes et Performances des Produits sur Python](https://https://github.com/SaminaV/python_Visualisation)** 
+- **[Analyse et Visualisation des Ventes et Performances des Produits sur Python](https://github.com/SaminaV/python_Visualisation)** 
 - **[Exploration des données et visualisation sur Tableau pour analyser les ventes dans le secteur électronique](https://github.com/SaminaV/Tableau_sales_analysis)**
 - **Visualisation interactive avec RShiny** : Création d'une application interactive de visualisation des données avec RShiny.
 
