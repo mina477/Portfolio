@@ -24,7 +24,7 @@ Mon objectif est de mettre en pratique mes compétences en analyse de données e
 | **Visualisation**                 | Tableau, Power BI, Python, R et RShiny         |
 | **Machine Learning**              | Scikit-learn, TensorFlow, Dataiku, PyTorch, XGBoost, LightGBM |
 | **Ingénierie des données**        | Snowflake, Spark                       |
-| **Cloud Computing**               | Microsoft Azure, AWS (en apprentissage)        |
+| **Cloud Computing**               | Microsoft Azure, AWS (certification en cours de préparation)        |
 
 ---
 
