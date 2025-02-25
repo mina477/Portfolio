@@ -1,6 +1,6 @@
 # 👋 Hello, c'est Samina !
 
-Je suis une **Data Scientist indépendante** passionnée par la transformation des données en décisions stratégiques. Diplômée d'un Master en Économie Appliquée avec une spécialisation en **Data Science** de l'Université Paris-Est Créteil, je possède une solide expertise en analyse statistique, modélisation prédictive et visualisation de données.
+Je suis une **Data Scientist ** passionnée par la transformation des données en décisions stratégiques. Diplômée d'un Master en Économie Appliquée avec une spécialisation en **Data Science** de l'Université Paris-Est Créteil, je possède une solide expertise en analyse statistique, modélisation prédictive et visualisation de données.
 
 Mon objectif est de mettre en pratique mes compétences en analyse de données et en machine learning pour contribuer à des projets innovants qui améliorent la prise de décision et optimisent les processus d'affaires.
 
